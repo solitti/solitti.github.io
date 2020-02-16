@@ -14,10 +14,12 @@ export const Container = styled.div`
     padding: 10px;
     font-family: monospace;
     color: #fff;
+    margin-bottom: 15px;
 
     span {
       font-family: FiraCodeRetina;
-      font-size: 15px;
+      font-size: 13px;
+      padding: 5px;
 
       a {
         color: #fff;
@@ -34,15 +36,15 @@ export const Container = styled.div`
     .logo {
       font-family: MontHeavy;
       font-style: italic;
-      font-size: 30px;
+      font-size: 50px;
       color: #fff;
-      line-height: 20px;
+      line-height: 30px;
     }
 
     .nature {
       font-family: MontHeavy;
       font-style: italic;
-      font-size: 14px;
+      font-size: 24px;
       color: #4c22b5;
       text-align: right;
       margin-right: 4.5px;

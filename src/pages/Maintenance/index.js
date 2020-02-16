@@ -19,7 +19,9 @@ export default function Maintenance() {
           </a>
         </span>
         <span>
-          <FontAwesomeIcon icon={faEnvelope} /> contato@solitti.com.br
+          <a href="mailto:contato@solitti.com.br">
+            <FontAwesomeIcon icon={faEnvelope} /> contato@solitti.com.br
+          </a>
         </span>
       </div>
     </Container>
