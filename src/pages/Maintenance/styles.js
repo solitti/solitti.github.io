@@ -13,7 +13,7 @@ export const Container = styled.div`
     flex-direction: column;
     padding: 10px;
     font-family: monospace;
-    color: #fff;
+    color: #aaa;
     margin-bottom: 15px;
 
     span {
@@ -22,7 +22,7 @@ export const Container = styled.div`
       padding: 5px;
 
       a {
-        color: #fff;
+        color: #aaa;
         text-decoration: none;
       }
     }
